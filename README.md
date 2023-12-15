@@ -5,6 +5,8 @@
 - <b>Setting up and plotting a world attack map with Microsoft sentinal </b>
   - (https://github.com/Elijah-Frisch/Failed-RDP-world-map-project.git)
 
+- <b>Built a REST api using the django rest framework </b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
