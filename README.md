@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setting up and plotting a world attack map with Microsoft sentinal (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Setting up and plotting a world attack map with Microsoft sentinal </b>
+  - (https://github.com/Elijah-Frisch/Failed-RDP-world-map-project.git)
 
 
 
